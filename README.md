@@ -50,18 +50,6 @@ Outro cargo
 
 Cada par de linhas vira um participante.
 
-## Painel obs.desk
-
-O `painel_controle.html` permite operar o OBS com:
-
-- conexão com OBS WebSocket;
-- monitor em dois modos de qualidade: `Leve` e `Nítido`;
-- controle de cenas e fontes;
-- controle básico de transmissão e gravação;
-- controle de áudio;
-- importação de projeto/lista;
-- envio e ocultação de lower thirds pelo overlay fixo.
-
 ## Política desta versão
 
 Esta é a versão interna com identidade e templates BNDES. A versão pública deve permanecer em uma cópia separada, sem os templates e assets institucionais.
